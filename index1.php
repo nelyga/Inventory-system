@@ -5,6 +5,7 @@
 <script type="text/javascript" src="js/facebox.js"></script>
 <link type="text/css" href="css/facebox.css" rel="stylesheet" />
 <script>
+	
   $(function() {
     $( "#tabs" ).tabs();
 	$('a[rel*=facebox]').facebox();
